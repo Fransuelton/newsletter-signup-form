@@ -1,0 +1,14 @@
+:root {
+  --primary-color: #ff6257;
+  --secondary-color: #242742;
+  --tertiary-color: #36384e;
+  --quaternary-color: #9294a0;
+  --white-color: #ffffff;
+  --border-color: #19182b40;
+  --vermellion: #ff615526;
+  --vermellion2: #ff6155;
+}
+
+:root {
+  --paragraph-font-size: 1.6rem;
+}

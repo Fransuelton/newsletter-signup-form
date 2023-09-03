@@ -1,0 +1,17 @@
+.custom-before-icon::before {
+  content: url("../assets/images/icon-list.svg");
+  width: 2.1rem;
+  height: 2.1rem;
+  padding-right: 1.6rem;
+}
+
+.custom-list-marker {
+  list-style-type: none;
+}
+
+.custom-list-marker li::before {
+  content: url("../assets/images/icon-list.svg");
+  display: inline-block;
+  margin-right: 1.6rem;
+  vertical-align: middle;
+}
